@@ -25,4 +25,3 @@ for inputNum in array:
         else:
             a -=1
             b +=1
-         
